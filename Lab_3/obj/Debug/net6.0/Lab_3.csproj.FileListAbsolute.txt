@@ -1,0 +1,15 @@
+C:\Users\thelo\Source\Repos\KPZ-Practice-1\Lab_3\bin\Debug\net6.0\Lab_3.exe
+C:\Users\thelo\Source\Repos\KPZ-Practice-1\Lab_3\bin\Debug\net6.0\Lab_3.deps.json
+C:\Users\thelo\Source\Repos\KPZ-Practice-1\Lab_3\bin\Debug\net6.0\Lab_3.runtimeconfig.json
+C:\Users\thelo\Source\Repos\KPZ-Practice-1\Lab_3\bin\Debug\net6.0\Lab_3.dll
+C:\Users\thelo\Source\Repos\KPZ-Practice-1\Lab_3\bin\Debug\net6.0\Lab_3.pdb
+C:\Users\thelo\Source\Repos\KPZ-Practice-1\Lab_3\obj\Debug\net6.0\Lab_3.csproj.AssemblyReference.cache
+C:\Users\thelo\Source\Repos\KPZ-Practice-1\Lab_3\obj\Debug\net6.0\Lab_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thelo\Source\Repos\KPZ-Practice-1\Lab_3\obj\Debug\net6.0\Lab_3.AssemblyInfoInputs.cache
+C:\Users\thelo\Source\Repos\KPZ-Practice-1\Lab_3\obj\Debug\net6.0\Lab_3.AssemblyInfo.cs
+C:\Users\thelo\Source\Repos\KPZ-Practice-1\Lab_3\obj\Debug\net6.0\Lab_3.csproj.CoreCompileInputs.cache
+C:\Users\thelo\Source\Repos\KPZ-Practice-1\Lab_3\obj\Debug\net6.0\Lab_3.dll
+C:\Users\thelo\Source\Repos\KPZ-Practice-1\Lab_3\obj\Debug\net6.0\refint\Lab_3.dll
+C:\Users\thelo\Source\Repos\KPZ-Practice-1\Lab_3\obj\Debug\net6.0\Lab_3.pdb
+C:\Users\thelo\Source\Repos\KPZ-Practice-1\Lab_3\obj\Debug\net6.0\Lab_3.genruntimeconfig.cache
+C:\Users\thelo\Source\Repos\KPZ-Practice-1\Lab_3\obj\Debug\net6.0\ref\Lab_3.dll
