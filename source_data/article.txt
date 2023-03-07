@@ -1,0 +1,24 @@
+
+					How the James Webb Space Telescope broke the universe.
+
+Natalie Batalha was itching for data from the James Webb Space Telescope. It was a few months after the telescope had reached its final orbit, and her group at the University of California, Santa Cruz, had been granted time to observe a handful of exoplanets—planets that orbit around stars other than our sun.
+
+Among the targets was WASP-39b, a scorching world that orbits a star some 700 light-years from Earth. The planet was discovered years ago. But in mid-July, when Batalha and her team got their hands on the first JWST observations of the distant world, they saw a clear signature of a gas that is common on Earth but had never been spotted before in the atmosphere of an exoplanet: carbon dioxide. On Earth, carbon dioxide is a key indicator of plant and animal life. WASP-39b, which takes just four Earth days to orbit its star, is too hot to be considered habitable. But the discovery could well herald more exciting detections—from more temperate worlds—in the future. And it came just a few days into the lifetime of JWST. “That was a very exciting moment,” says Batalha, whose group had gathered to glimpse the data for the first time. “The minute we looked, the carbon dioxide feature was just beautifully drawn out.”
+
+This was no accident. JWST, a NASA-led collaboration between the US, Canada, and Europe, is the most powerful space telescope in history and can view objects 100 times fainter than what the Hubble Space Telescope can see. Almost immediately after it started full operations in July of 2022, incredible vistas from across the universe poured down, from images of remote galaxies at the dawn of time to amazing landscapes of nebulae, the dust-filled birthplaces of stars. “It’s just as powerful as we had hoped, if not more so,” says Gabriel Brammer, an astronomer at the University of Copenhagen in Denmark.
+
+Related Story
+illustration of an astronaut emerging from the hatch of a lunar vehicle
+NASA’s return to the moon is off to a rocky start
+Artemis aims to deliver astronauts back to the lunar surface by 2025, but it’s riding on an old congressional pet project.
+
+But the speed at which JWST has made discoveries is due to more than its intrinsic capabilities. Astronomers prepared for years for the observations it would make, developing algorithms that can rapidly turn its data into usable information. Much of the data is open access, allowing the astronomical community to comb through it almost as fast as it comes in. Its operators have also built on lessons learned from the telescope’s predecessor, Hubble, packing its observational schedule as much as possible.
+
+For some, the sheer volume of extraordinary data has been a surprise. “It was more than we expected,” says Heidi Hammel, a NASA interdisciplinary scientist for JWST and vice president for science at the Association of Universities for Research in Astronomy in Washington, DC. “Once we went into operational mode, it was just nonstop. Every hour we were looking at a galaxy or an exoplanet or star formation. It was like a firehose.”
+
+Now, months later, JWST continues to send down reams of data to astonished astronomers on Earth, and it is expected to transform our understanding of the distant universe, exoplanets, planet formation, galactic structure, and much more. Not all have enjoyed the flurry of activity, which at times has reflected an emphasis on speed over the scientific process, but there’s no doubt that JWST is enchanting audiences across the globe at a tremendous pace. The floodgates have opened—and they’re not shutting anytime soon.
+
+Opening the pipe
+JWST orbits the sun around a stable point 1.5 million kilometers from Earth. Its giant gold-coated primary mirror, which is as tall as a giraffe, is protected from the sun’s glare by a tennis-court-size sunshield, allowing unprecedented views of the universe in infrared light...
+
+Source: https://www.technologyreview.com/2023/01/21/1065178/james-webb-space-telescope-universe/
