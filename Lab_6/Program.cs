@@ -39,16 +39,16 @@ namespace WordsCounter
 
         public static void download_csv(string url)
         {
-        WebClient client = new WebClient();
-        string directory = @"C:\Users\thelo\Source\Repos\KPZ-Practice-1\source_data\";
-        string file_path = Path.Combine(directory, "username.csv");
+            WebClient client = new WebClient();
+            string directory = @"C:\Users\thelo\Source\Repos\KPZ-Practice-1\source_data\";
+            string file_path = Path.Combine(directory, "username.csv");
 
-        client.DownloadFile(url, file_path);
+            client.DownloadFile(url, file_path);
 
-        string[] lines = File.ReadAllLines(file_path);
-        Array.Resize(ref lines, lines.Length - 2);
-        File.WriteAllLines(file_path, lines);
-        Console.WriteLine("Completed!");
+            string[] lines = File.ReadAllLines(file_path);
+            Array.Resize(ref lines, lines.Length - 2);
+            File.WriteAllLines(file_path, lines);
+            Console.WriteLine("Completed!");
         }
     }
 }
