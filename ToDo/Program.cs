@@ -8,10 +8,8 @@ namespace TaskManager
     {
         static void Main(string[] args)
         {
-            // Check for database and create if necessary
             Database.CheckDatabase();
 
-            // Display menu
             Menu.DisplayMenu();
         }
     }
