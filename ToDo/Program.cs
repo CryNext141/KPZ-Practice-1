@@ -8,10 +8,8 @@ namespace TaskManager
     {
         static void Main(string[] args)
         {
-            // Check for database and create if necessary
             Database.CheckDatabase();
 
-            // Display menu
             Menu.DisplayMenu();
         }
     }
@@ -240,21 +238,18 @@ namespace TaskManager
 
         public static void CheckDatabase()
         {
-            // Check if database exists and create if necessary
             if (!System.IO.File.Exists("TaskManager.db"))
             {
                 using (SqliteConnection connection = new SqliteConnection(connectionString))
                 {
                     connection.Open();
 
-                    // Create Users table
                     string createUsersTable = "CREATE TABLE Users (Id INTEGER PRIMARY KEY AUTOINCREMENT, Username TEXT NOT NULL UNIQUE, Password TEXT NOT NULL)";
                     using (SqliteCommand command = new SqliteCommand(createUsersTable, connection))
                     {
                         command.ExecuteNonQuery();
                     }
 
-                    // Create Tasks table
                     string createTasksTable = "CREATE TABLE Tasks (Id INTEGER PRIMARY KEY AUTOINCREMENT, Username TEXT NOT NULL, Description TEXT NOT NULL)";
                     using (SqliteCommand command = new SqliteCommand(createTasksTable, connection))
                     {
